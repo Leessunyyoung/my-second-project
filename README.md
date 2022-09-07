@@ -5,8 +5,8 @@
     > list(목록표시)
 2. cd
     >change directory(작업 경로 변경)
-3. rm
-    rm remove(파일삭제)
+3. rm   
+   rm remove(파일삭제)
 4. mkdir<!--스페이스바 3번누르고 엔터면 다음으로 넘어감-->   
    make directory(작업목록 생성)     
 5. rmdir   
@@ -37,3 +37,6 @@
     바로전 commit과 Staging Area의 Merge할 때 사용
 10. git restore --staged <파일명>   
     Staging Area의 파일을 Working Directory로 가져옴
+
+![Git Sheat Sheet](asset/gitchatsheet.gif)
+

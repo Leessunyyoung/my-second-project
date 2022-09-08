@@ -41,7 +41,9 @@
      Staging Area의 파일을 Working Directory로 가져옴
     ![Git Sheat Sheet](asset/gitchatsheet.gif)
 
-    # 문자코딩 인코딩
+    문자코딩 인코딩
+
+    ***
 
 ### 문자코드
 
